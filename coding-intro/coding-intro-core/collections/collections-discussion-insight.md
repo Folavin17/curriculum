@@ -33,7 +33,7 @@ setupCode:
 
 Learning is best when we give it an honest try. Even if we make a mistake, we'll remember it and do better next time.
 
-That being said, if you're not sure how to get started, check out this footnote[2].
+If you're not sure how to get started, check out this footnote[2].
 
 When you're finished, feel free to share your solution with the community, join in on discussions and upvote solutions from your fellow learners!
 
@@ -56,13 +56,13 @@ To do this, you need to use the special `print()` function.
 
 Here is how you would print the test `"Enki"`:
 
-```py
+```python
 print("Enki")
 ```
 
 And here is how you would print a collection's element:
 
-```py
+```python
 print(my_collection[0])
 ```
 
@@ -70,7 +70,7 @@ print(my_collection[0])
 
 There are many ways in which you can tackle this. For example, you could create a list that stores weekdays:
 
-```plain-text
+```python
 days = [
   "Monday",
   "Tuesday",
@@ -85,8 +85,8 @@ days = [
 
 Here is a reminder of how you can access the items:
 
-```plain-text
+```python
 days[0]
-// "Monday"
+# "Monday"
 ```
 

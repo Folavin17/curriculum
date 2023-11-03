@@ -12,7 +12,6 @@ links:
 practiceQuestion:
   formats:
     - fill-in-the-gap
-    - type-in-the-gap
   context: relative
 revisionQuestion:
   formats:
@@ -78,7 +77,7 @@ Search in the home directory for files that contain happy in their title:
 ```
 
 - `find`
-- `~`
+- `/home`
 - `f`
 - `-name`
 - `"*happy*"`

@@ -54,7 +54,7 @@ Gives the following output:
 
 ## Practice
 
-Print the all numbers between 0 and 10 *inclusive*:
+Print all numbers between 0 and 10 *inclusive*:
 
 ```python
 x = 0
@@ -67,7 +67,7 @@ while x < ???:
 - print(x)
 - x = x + 1
 - 10
-- x++
+- x++1
 - x + 1
 
 

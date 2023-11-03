@@ -1,4 +1,4 @@
-name: Python Exercises
+name: Exercises
 
 description: Questions to improve your coding skills.
 
@@ -34,3 +34,6 @@ sections:
     - pascals-triangle
     - beginning-and-end-pairs
     - harmonic-series
+
+next:
+  - python:tech-interview-questions-py

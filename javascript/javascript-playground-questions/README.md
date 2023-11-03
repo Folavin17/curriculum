@@ -1,4 +1,4 @@
-name: JavaScript Exercises
+name: Exercises
 
 description: Questions to improve your coding skills.
 
@@ -35,3 +35,5 @@ sections:
     - js-beginning-and-end-pairs
     - js-harmonic-series
     
+next:
+  - javascript:tech-interview-exercises-js

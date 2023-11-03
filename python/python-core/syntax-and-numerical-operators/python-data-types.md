@@ -3,19 +3,17 @@ author: emmab
 tags:
   - introduction
 type: normal
-category: must-know
+category: discussion
 links:
   - >-
     [Pythonic](https://stackoverflow.com/questions/25011078/what-does-pythonic-mean){website}
 practiceQuestion:
   formats:
     - fill-in-the-gap
-    - type-in-the-gap
   context: standalone
 revisionQuestion:
   formats:
     - fill-in-the-gap
-    - type-in-the-gap
   context: standalone
 ---
 
@@ -74,17 +72,23 @@ Other Python data types that you'll soon learn about are:
 
 ## Practice
 
-What class does the following return?
+Match the value to its type.
 
 ```python
->>> type('Learning Python')
-# <class '???'>
+type(???)
+# <class 'float'>
+
+type(???)
+# <class 'str'>
+
+type(???)
+# <class 'int'>
 ```
 
-- str
-- string
-- text
-- data
+- 15.0
+- 'Hello World'
+- 17
+- True
 
 ---
 

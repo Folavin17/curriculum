@@ -9,7 +9,6 @@ practiceQuestion:
 revisionQuestion:
   formats:
     - fill-in-the-gap
-    - type-in-the-gap
   context: standalone
 ---
 
@@ -20,7 +19,7 @@ revisionQuestion:
 
 ## Content
 
-**Go** support several data types. These are categorized into four groups:
+**Go** supports several data types. These are categorized into four groups:
 
 - basic
 - aggregate
